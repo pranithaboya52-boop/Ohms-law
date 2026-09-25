@@ -1,1 +1,0 @@
-# Ohms-law
